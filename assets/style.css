@@ -1,0 +1,28 @@
+.kort-forklaring {
+    font-size: 10px;
+}
+
+.kort-forklaring p {
+    padding-right: 5px;
+}
+
+.metode {
+    font-size: 12px;
+    font-style: italic;
+    height: auto;
+}
+
+.knapper {
+    height: auto;
+}
+
+tr {
+    cursor: pointer;
+}
+
+thead tr {
+    cursor: auto;
+}
+h1 {
+    font-size: 2.0rem !important ;
+}
